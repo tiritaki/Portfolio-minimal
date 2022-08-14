@@ -390,7 +390,7 @@ img {
 #selenium {
   width: 250px;
   height: 150px;
-  padding-top: 20px;
+  /* padding-top: 20px; */
 }
 @media (max-width: 600px) {
   .header {
