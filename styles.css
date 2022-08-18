@@ -387,11 +387,12 @@ img {
   height: 200px;
 }
 
-#selenium {
+#selenium, #html_css{
   width: 250px;
   height: 150px;
   /* padding-top: 20px; */
 }
+
 @media (max-width: 600px) {
   .header {
     height: 6em;
